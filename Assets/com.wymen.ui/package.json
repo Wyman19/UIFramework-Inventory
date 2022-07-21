@@ -9,10 +9,7 @@
       "email": "liweimin0406@163.com",
       "url": "https://github.com/Wyman19/UIFramework-Inventory"
     },
-    "changelogUrl": "",
-  "dependencies": {
-    "com.wymen.ui": "https://github.com/Wyman19/UIFramework-Inventory.git"
-  },
+
     "documentationUrl": "",
     "hideInEditor": false,
     "keywords": [
