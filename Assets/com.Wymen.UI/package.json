@@ -1,0 +1,20 @@
+{
+    "name": "com.wymen.uiframework",
+    "version": "0.0.1",
+    "displayName": "uiframework",
+    "description": "This is an UIFramework package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {
+
+        
+    },
+    "keywords": [
+        "ui"
+    ],
+    "author": {
+        "name": "Wymen",
+        "email": "liweimin0406@163.com",
+        "url": "https://github.com/Wyman19"
+    }
+}
