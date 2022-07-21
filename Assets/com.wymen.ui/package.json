@@ -10,8 +10,9 @@
       "url": "https://github.com/Wyman19/UIFramework-Inventory"
     },
     "changelogUrl": "",
-    "dependencies": {
-    },
+  "dependencies": {
+    "com.wymen.ui": "https://github.com/Wyman19/UIFramework-Inventory.git"
+  },
     "documentationUrl": "",
     "hideInEditor": false,
     "keywords": [
