@@ -8,8 +8,8 @@ namespace UIFramework
 {
     public class UIManager
     {
-        readonly string panelPrefabPath = Application.dataPath + @"/UI/Resources/UIPanelPrefab";
-        readonly string jsonPath = Application.dataPath + @"/UI/Json/UIJson.json";
+        readonly string panelPrefabPath = Application.dataPath + @"/com.wymen.ui/Resources/UIPanelPrefab";
+        readonly string jsonPath = Application.dataPath + @"/com.wymen.ui/Json/UIJson.json";
 
         //单例模式
         private static UIManager _instance;
